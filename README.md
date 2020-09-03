@@ -1,2 +1,2 @@
 # Visualization
-Coursework for Visualization course 
+Coursework for Visualization course at Boston College
