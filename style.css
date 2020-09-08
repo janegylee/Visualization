@@ -1,0 +1,57 @@
+
+body {
+    background-color: white;
+    color:black;
+    font-family: verdana;
+    margin: 20px;
+}
+h1 {
+    text-align: left;
+    font-size: 300%;
+    font-weight: normal;
+    overflow-wrap: anywhere;
+    width: 600px;
+}
+
+.button {
+    font-size: 70%;
+    font-weight: bold;
+    background-color: #5D4E41;
+    color:white;
+    border-width: 0px;
+}
+
+#generate:hover, a:hover {
+    background-color:yellow;
+    color: black;
+}
+
+
+div p {
+    border: 1.5px solid lightgray;
+    background-color: whitesmoke;
+    width: 500px;
+    padding: 15px;
+    overflow-wrap: anywhere;
+}
+
+img{
+    vertical-align: middle;
+    max-width: 800px;
+    max-height: 340px;
+   
+}
+
+
+img.frame{
+    margin-bottom: 10px;
+}
+
+figure.item{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    float:right;
+}
+
+
